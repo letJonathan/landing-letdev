@@ -10,7 +10,7 @@
 
     --color-blog: #181818;
 
-    --header-hight: 6rem;
+    --header-hight: 5rem;
 }
 /* 
 
@@ -62,7 +62,7 @@ img {
 }
 
 .header_logo-img {
-    height: 60%;
+    height: 50%;
 }
 
 .header_container {
